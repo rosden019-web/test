@@ -1,0 +1,6 @@
+{
+  "name": "Foodie Alger",
+  "description": "Décidez ensemble où manger à Alger en moins de 2 minutes. Créez une session, partagez le code, votez entre amis et explorez les meilleures adresses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
